@@ -1,4 +1,4 @@
-package day39.questions.test;
+package day40.questions;
 
 public class Q14 {
 

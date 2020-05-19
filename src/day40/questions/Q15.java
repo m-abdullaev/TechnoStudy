@@ -1,4 +1,4 @@
-package day39.questions.test;
+package day40.questions;
 
 import java.util.HashSet;
 import java.util.Set;
